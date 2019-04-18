@@ -2,8 +2,8 @@
 
 ## Workshop Details
 
- ...| Workshop 1 | Workshop 2 
-Title | Accessing evidence-based literature via Hinari resources  |   Introduction to conducting systematic reviews, publishing and author resources
+ ...| Workshop 1 | Workshop 2
+ Title | Accessing evidence-based literature via Hinari resources  |   Introduction to conducting systematic reviews, publishing and author resources
 -----------|------------|--------------|
  Dates| July 22-23, 2019 | July 24-26, 2019 
  Goals|  (1) obtain an understanding of the evidence-based process (2) effectively and efficiently use Hinari/R4L evidence-based resources to obtain high-quality, authoritative information to support healthcare endeavors | (1) understand the purpose and method of conducting a systematic review (2) refine a systematic review question and draft a comprehensive search strategy (3) understand academic publishing from author perspective (copyright, plagiarism, and writing support resources) (4) use citation management software to organize references and create bibliographies
@@ -18,4 +18,6 @@ The in-person workshop will be followed by a webinar series to take place over t
 * Erin Eldermire, Head of the Flower-Sprecher Veterinary Library, Cornell University 
 * Masimba Muziringa, University of Zimbabwe 
 * Karin Saric, MLIS, Norris Medical Library, University of Southern California 
-* Sarah Young, Subject Librarian for Social Sciences, Carnegie Mellon University
+* [Sarah Young] (https://www.library.cmu.edu/about/people/sarah-young), Subject Librarian for Social Sciences, Carnegie Mellon University
+
+#####[Back to registration page] (https://rootsandberries.github.io/UZim_SRWorkshop/)
