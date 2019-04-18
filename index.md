@@ -20,8 +20,8 @@ Accessing evidence-based literature via Hinari resources | Introduction to condu
 
 The in-person workshops will be followed by a live webinar series for continued support to complete a systematic review. Webinars will take place online over the course of 12 months. 
  
-### <p>style="text-align: center;">FREE to attend</p>
-### <p>style="text-align: center;">Registration is REQUIRED</p> 
-### <p>style="text-align: center;">Please register @ XXXXXXXX</p>
-#### <p>style="text-align: center;">See additional workshop details @ [INSERT LINK].</p>
+### <p align="center">FREE to attend</p>
+### <p align="center">Registration is REQUIRED</p> 
+### <p align="center">Please register @ XXXXXXXX</p>
+#### <p align="center">See additional workshop details @ [INSERT LINK].</p>
 
