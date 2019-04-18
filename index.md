@@ -23,5 +23,5 @@ The in-person workshops will be followed by a live webinar series for continued 
 ### FREE to attend
 ### Registration is REQUIRED 
 ### Please register @ XXXXXXXX
-#### See additional workshop details @ [INSERT LINK].
+#### See [the workshop details page](https://rootsandberries.github.io/UZim_SRWorkshop/details) for more information.
 
