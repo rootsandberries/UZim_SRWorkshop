@@ -20,4 +20,4 @@ The in-person workshop will be followed by a webinar series to take place over t
 * **Karin Saric**, MLIS, Norris Medical Library, University of Southern California 
 * **[Sarah Young](https://www.library.cmu.edu/about/people/sarah-young)**, Subject Librarian for Social Sciences, Carnegie Mellon University
 
-#####[Back to registration page](https://rootsandberries.github.io/UZim_SRWorkshop/)
+#### [Back to registration page](https://rootsandberries.github.io/UZim_SRWorkshop/)
