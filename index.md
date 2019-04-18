@@ -1,8 +1,8 @@
-#### WHAT: 5-day in-person workshop & follow-up online webinars over 12 months
-#### WHEN:  July 22-26, 2019; 8:30am – 4:30pm; continued online support over 12 months
-#### WHERE: University of Zimbabwe, College of Health Sciences, Harare, Zimbabwe
-#### COST:  FREE! Includes refreshments and lunch
-#### REGISTER:  [INSERT LINK]
+#### **WHAT: 5-day in-person workshop & follow-up online webinars over 12 months**
+#### **WHEN:  July 22-26, 2019; 8:30am – 4:30pm; continued online support over 12 months**
+#### **WHERE: University of Zimbabwe, College of Health Sciences, Harare, Zimbabwe**
+#### **COST:  FREE! Includes refreshments and lunch**
+#### **REGISTER:  [INSERT LINK]**
  
 Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ http://www.who.int/hinari/en/
 
