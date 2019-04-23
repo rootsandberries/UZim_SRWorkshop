@@ -1,8 +1,8 @@
-#### <strong>WHAT: 5-day in-person workshop & follow-up online webinars over 12 months</strong>
-#### **WHEN:  July 22-26, 2019; 8:30am – 4:30pm; continued online support over 12 months**
-#### **WHERE: University of Zimbabwe, College of Health Sciences, Harare, Zimbabwe**
-#### **COST:  FREE! Includes refreshments and lunch**
-#### **REGISTER:  [INSERT LINK]**
+### **WHAT**: 5-day in-person workshop & follow-up online webinars over 12 months
+### **WHEN**:  July 22-26, 2019; 8:30am – 4:30pm; continued online support over 12 months
+### **WHERE**: University of Zimbabwe, College of Health Sciences, Harare, Zimbabwe
+### **COST**:  FREE! Includes refreshments and lunch
+### **REGISTER**:  [INSERT LINK]
  
 Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ [http://www.who.int/hinari/en/](http://www.who.int/hinari/en/).
 
@@ -10,11 +10,11 @@ This FREE workshop is open to librarians, clinicians, residents, health sciences
  
 Participants of this two-part workshop will obtain 1) the skills to access evidence-based literature via Hinari resources, and 2) hands-on experience in conducting systematic reviews.
 
-In-person instruction consists of 5-days of training split into two workshops at the University of Zimbabwe, College of Health Sciences.  Attend either one or both workshops.
+#### **In-person instruction consists of 5-days of training split into two workshops at the University of Zimbabwe, College of Health Sciences.  Attend either one or both workshops.**
 
 Workshop 1 | Workshop 2
 -----------|-----------
-July 22-23 | July 24-26
+July 22-23, 2019 (Monday & Tuesday) | July 24-26, 2019 (Wednesday, Thursday & Friday)
 Accessing evidence-based literature via Hinari resources | Introduction to conducting systematic reviews, publishing and author resources
 
 
