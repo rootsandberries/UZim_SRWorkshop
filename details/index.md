@@ -14,10 +14,10 @@ Content| (1) Hinari overview (2) Overview of Evidence-based practice process (3)
 The in-person workshop will be followed by a webinar series to take place over the course of 12 months. Webinars will cover topics such as using software to manage the systematic review process, assessing study quality and risk of bias, meta-analysis and more. The goal of the webinars is to support workshop participants as the proceed through the process of conducting a systematic review.
 
 ### **Instructors/Facilitators**
-* **Israel Dabengwa**, National University of Science and Technology in Bulawayo 
-* **Erin Eldermire**, Head of the Flower-Sprecher Veterinary Library, Cornell University 
-* **Masimba Muziringa**, University of Zimbabwe 
-* **Karin Saric**, Norris Medical Library, University of Southern California 
+* **[Israel Dabengwa](https://zw.linkedin.com/in/israel-dabengwa-89632936)**, National University of Science and Technology in Bulawayo 
+* **[Erin Eldermire]( https://orcid.org/0000-0001-5846-4041)**, Head of the Flower-Sprecher Veterinary Library, Cornell University 
+* **[Masimba Muziringa](https://zw.linkedin.com/in/masimba-muziringa-39469835)**, University of Zimbabwe 
+* **[Karin Saric](https://nml.usc.edu/people/karin-saric/)**, Norris Medical Library, University of Southern California 
 * **[Sarah Young](https://www.library.cmu.edu/about/people/sarah-young)**, Subject Librarian for Social Sciences, Carnegie Mellon University
 
 #### [Back to registration page](https://rootsandberries.github.io/UZim_SRWorkshop/)
