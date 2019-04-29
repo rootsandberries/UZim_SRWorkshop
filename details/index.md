@@ -1,4 +1,3 @@
-[insert logo] [insert logo] 
 
 ## **Workshop Details**
 

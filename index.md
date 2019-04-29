@@ -1,6 +1,6 @@
 ### FREE information access and systematic review workshops!
-####University of Zimbabwe, Harare, Zimbabwe
-####July 22-23 and July 24-26, 2019 including a post-workshop webinar series 
+#### University of Zimbabwe, Harare, Zimbabwe
+#### July 22-23 and July 24-26, 2019 including a post-workshop webinar series 
 
 
 #### Register at  [http://bit.ly/access_register](http://bit.ly/access_register)
