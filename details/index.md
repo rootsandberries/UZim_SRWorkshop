@@ -5,7 +5,7 @@
  ...| Workshop 1 | Workshop 2
  ---------------|-----------------|-------|
  Title | Accessing evidence-based literature via Hinari resources                 | Introduction to conducting systematic reviews, publishing and author resources
- Dates| July 22-23, 2019 (Mon-Tues) | July 24-26, 2019 (Wed-Fri)
+ Dates| July 22-23, 2019 (Mon-Tues); 8:30am-4:30pm | July 24-26, 2019 (Wed-Fri); 8:30am-4:30pm
  Goals|  (1) obtain an understanding of the evidence-based process (2) effectively and efficiently use Hinari/R4L evidence-based resources to obtain high-quality, authoritative information to support healthcare endeavors | (1) understand the purpose and method of conducting a systematic review (2) refine a systematic review question and draft a comprehensive search strategy (3) understand academic publishing from author perspective (copyright, plagiarism, and writing support resources) (4) use citation management software to organize references and create bibliographies
 Content| (1) Hinari overview (2) Overview of Evidence-based practice process (3) Database searching (4) Access books, full-text journal articles and grey literature via various Hinari and online resources | This workshop and series aims to get you started on a systematic review, and support you through the process of completing your review. 
 

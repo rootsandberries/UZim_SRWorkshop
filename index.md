@@ -1,8 +1,9 @@
-### WHAT: 5-day in-person workshop & follow-up online webinars over 12 months
-### WHEN:  July 22-26, 2019; 8:30am – 4:30pm; continued online support over 12 months
-### WHERE: University of Zimbabwe, Harare, Zimbabwe
-### COST:  FREE! Includes refreshments and lunch
-### REGISTER:  [http://bit.ly/access_register](http://bit.ly/access_register)
+### FREE information access and systematic review workshops!
+####University of Zimbabwe, Harare, Zimbabwe
+####July 22-23 and July 24-26, 2019 including a post-workshop webinar series 
+
+
+#### Register at  [http://bit.ly/access_register](http://bit.ly/access_register)
  
 Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ [http://www.who.int/hinari/en/](http://www.who.int/hinari/en/).
 
@@ -21,7 +22,6 @@ Accessing evidence-based literature via Hinari resources | Introduction to condu
 The in-person workshops will be followed by a live webinar series for continued support to complete a systematic review. Webinars will take place online over the course of 12 months. 
  
 ### FREE to attend
-### Registration is REQUIRED 
-### Please register [here](http://bit.ly/access_register)
+### Registration is REQUIRED--Please register [here](http://bit.ly/access_register)
 #### See [the workshop details page](https://rootsandberries.github.io/UZim_SRWorkshop/details) for more information.
 
