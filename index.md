@@ -5,9 +5,10 @@
 
 #### Register at  [http://bit.ly/access_register](http://bit.ly/access_register)
  
-Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ [http://www.who.int/hinari/en/](http://www.who.int/hinari/en/).
 
-These FREE workshops are open to librarians, clinicians, residents, health sciences and public health students, researchers, and global health workers from Hinari registered institutions in or near Harare, Zimbabwe.  **Teams interested in conducting systematic reviews are highly encouraged to attend, particularly librarian/researcher teams**.
+These FREE interdisciplinary workshops are open to librarians, clinicians, residents, graduate students, researchers, and those working in the global health, agriculture or policy sectors from Hinari registered institutions in or near Harare, Zimbabwe.  Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ [http://www.who.int/hinari/en/](http://www.who.int/hinari/en/).
+
+**Teams interested in conducting systematic reviews are highly encouraged to attend, particularly librarian/researcher teams**.
  
 Participants of this two-part training will obtain 1) the skills to access evidence-based literature via Hinari resources, and 2) hands-on experience in conducting systematic reviews.
 
@@ -22,6 +23,6 @@ Accessing evidence-based literature via Hinari resources | Introduction to condu
 The in-person workshops will be followed by a live webinar series for continued support to complete a systematic review. Webinars will take place online over the course of 12 months. 
  
 ### FREE to attend
-### Registration is REQUIRED--Please register [here](http://bit.ly/access_register)
+### Registration is REQUIRED. Please register [here](http://bit.ly/access_register)
 #### See [the workshop details page](https://rootsandberries.github.io/UZim_SRWorkshop/details) for more information.
 
