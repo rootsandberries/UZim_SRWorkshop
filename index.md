@@ -7,11 +7,11 @@
  
 Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ [http://www.who.int/hinari/en/](http://www.who.int/hinari/en/).
 
-This FREE workshop is open to librarians, clinicians, residents, health sciences and public health students, researchers, and global health workers from Hinari registered institutions in or near Harare, Zimbabwe.  **Teams interested in conducting systematic reviews are highly encouraged to attend, particularly librarian/researcher teams**.
+These FREE workshops are open to librarians, clinicians, residents, health sciences and public health students, researchers, and global health workers from Hinari registered institutions in or near Harare, Zimbabwe.  **Teams interested in conducting systematic reviews are highly encouraged to attend, particularly librarian/researcher teams**.
  
-Participants of this two-part workshop will obtain 1) the skills to access evidence-based literature via Hinari resources, and 2) hands-on experience in conducting systematic reviews.
+Participants of this two-part training will obtain 1) the skills to access evidence-based literature via Hinari resources, and 2) hands-on experience in conducting systematic reviews.
 
-#### **In-person instruction consists of 5-days of training split into two workshops at the University of Zimbabwe, College of Health Sciences.  Attend either one or both workshops.**
+##### In-person instruction consists of 5 days of training split into two workshops at the University of Zimbabwe.  Attend either one or both workshops.
 
 Workshop 1 | Workshop 2
 -----------|-----------
