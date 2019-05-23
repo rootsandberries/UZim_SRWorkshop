@@ -1,5 +1,5 @@
 ### FREE information access and systematic review workshops!
-#### University of Zimbabwe, Harare, Zimbabwe
+#### University of Zimbabwe Main Library, Harare, Zimbabwe
 #### July 22-23 and July 24-26, 2019 including a post-workshop webinar series 
 
 
@@ -21,8 +21,12 @@ Accessing evidence-based literature via Hinari resources | Introduction to condu
 
 
 The in-person workshops will be followed by a live webinar series for continued support to complete a systematic review. Webinars will take place online over the course of 12 months. 
- 
+
+*While these workshops are free, we regret that the organizers do not have sponsorship for participants’ travel, accommodation or upkeep costs. Participants or their institutions will have to self-fund these and related costs.*
+
+
 ### FREE to attend
 ### Registration is REQUIRED. Please register [here](http://bit.ly/access_register)
 #### See [the workshop details page](https://rootsandberries.github.io/UZim_SRWorkshop/details) for more information.
 
+####Questions can be directed to Masimba Muziringa at [mmuziringa@gmail.com](mailto:mmuziringa@gmail.com).
