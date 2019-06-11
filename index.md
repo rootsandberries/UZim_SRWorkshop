@@ -1,9 +1,8 @@
+##Please note that registration for these workshops is now full.  
+
 ### FREE information access and systematic review workshops!
 #### University of Zimbabwe Main Library, Harare, Zimbabwe
 #### July 22-23 and July 24-26, 2019 including a post-workshop webinar series 
-
-
-#### Register at  [http://bit.ly/access_register](http://bit.ly/access_register)
  
 
 These FREE interdisciplinary workshops are open to librarians, clinicians, residents, graduate students, researchers, and those working in the global health, agriculture or policy sectors from Hinari registered institutions in or near Harare, Zimbabwe.  Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ [http://www.who.int/hinari/en/](http://www.who.int/hinari/en/).
