@@ -1,4 +1,4 @@
-##Please note that registration for these workshops is now full.  
+## Please note that registration for these workshops is now full.  
 
 ### FREE information access and systematic review workshops!
 #### University of Zimbabwe Main Library, Harare, Zimbabwe
